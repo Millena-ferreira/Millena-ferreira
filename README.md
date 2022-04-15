@@ -1,14 +1,15 @@
-### Olá! Eu sou a Millena Carolina 🙋
+<div>
+  <h1 align="center">Olá! Sou a <a href="https://www.linkedin.com/in/millena-carolina-571a051ab/">Millena Carolina</a> 🙋 </h1>
+  <p align="center"><i>Eu sou estudante de Ciência da Computação</i> 👩‍ </p>
+  </a><br>
 
-#### <i>sou estudante de Ciência da Computação</i>
-<br>
 </div>
 
 
 <div align="center">
-  <a href="https://github.com/Millena-ferreira">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Millena-ferreira&count_private=true&include_all_commits=true&show_icons=true&theme=synthwave&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Millena-ferreira&theme=synthwave&hide_border=false&&layout=compact"/>
+  <a href="https://github.com/milenaksk">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Millena-ferreira&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Millena-ferreira&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
@@ -16,8 +17,6 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="github" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
 </div><br>
 
 <div align="center">
