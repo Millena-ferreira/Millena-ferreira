@@ -2,12 +2,8 @@
 
 #### <i>sou estudante de Ciência da Computação</i>
 <br>
-<a href="https://https://www.linkedin.com/in/millena-carolina-571a051ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:millenaferreir8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
-<br>
-<br>
-<br>
 
 <div align="center">
   <a href="https://github.com/Millena-ferreira">
@@ -15,16 +11,22 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Millena-ferreira&theme=synthwave&hide_border=false&&layout=compact"/>
   </a>
 </div>
-  </a>
 
+<div align="center" valign="top"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="github" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
+</div><br>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/millena-carolina-571a051ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:millenaferreir8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
-### Tecnologias que eu uso no meu dia 
-
-
-
-<div style="display:inline_block"><br/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</div></br>
+<div align="center">
+  
+  ![Snake animation](https://github.com/Millena-ferreira/Millena-ferreira/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
