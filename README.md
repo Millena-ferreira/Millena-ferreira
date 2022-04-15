@@ -7,12 +7,14 @@
 
 <br>
 <br>
-
-![Millena GitHub stats](https://github-readme-stats.vercel.app/api?username=Millena-Ferreira&show_icons=true&theme=dracula)
-<br>
 <br>
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Millena-Ferreira&theme=dracula&hide_border=false&&layout=compact"/>
+<div align="center">
+  <a href="https://github.com/Millena-ferreira">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Millena-ferreira&count_private=true&include_all_commits=true&show_icons=true&theme=synthwave&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Millena-ferreira&theme=synthwave&hide_border=false&&layout=compact"/>
+  </a>
+</div>
   </a>
 
 
