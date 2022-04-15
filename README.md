@@ -10,6 +10,10 @@
 
 ![Millena GitHub stats](https://github-readme-stats.vercel.app/api?username=Millena-Ferreira&show_icons=true&theme=dracula)
 <br>
+<br>
+
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Millena-Ferreira&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
 
 
 
