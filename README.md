@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Olá! Sou a <a href="https://www.linkedin.com/in/millena-carolina-571a051ab/">Millena Carolina</a> 🙋 </h1>
+  <h1 align="center">Olá! Eu sou a <a href="https://www.linkedin.com/in/millena-carolina-571a051ab/">Millena Carolina</a> 🙋 </h1>
   <p align="center"><i>Eu sou estudante de Ciência da Computação</i> 👩‍ </p>
   </a><br>
 
